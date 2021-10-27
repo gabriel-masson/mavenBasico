@@ -16,6 +16,6 @@ public class ResultadoMegasenaTest extends TestCase {
     // ResultadoMegasena.obtemUltimoResultado();
     // assertNotNull(ultimoResultado);
    // assertTrue( ultimoResultado.length == NUMERO_DE_DEZENAS );
-    assertTrue( 2>1);
+    assertTrue(true);
      }
  }
