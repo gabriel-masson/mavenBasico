@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Windows 8.1/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;C:/Users/Windows 8.1/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar;C:/Users/Windows 8.1/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/Windows 8.1/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar;C:/Users/Windows 8.1/.m2/repository/org/json/json/20201115/json-20201115.jar;C:/Users/Windows 8.1/.m2/repository/org/jsoup/jsoup/1.14.3/jsoup-1.14.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/Windows 8.1/Desktop/atividadeMaven/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Windows 8.1/Desktop/atividadeMaven/demo/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/Windows 8.1/Desktop/atividadeMaven/demo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+poo.atividade
+'C:/Users/Windows 8.1/Desktop/atividadeMaven/demo/src/main/java/poo/atividade/App.java'
+'C:/Users/Windows 8.1/Desktop/atividadeMaven/demo/src/main/java/poo/atividade/ResultadoMegasena.java'
+C:\Users\Windows 8.1\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar = 1635182072148
+C:\Users\Windows 8.1\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar = 1635182072079
+C:\Users\Windows 8.1\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1635182071306
+C:\Users\Windows 8.1\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar = 1634941941755
+C:\Users\Windows 8.1\.m2\repository\org\json\json\20201115\json-20201115.jar = 1635346655676
+C:\Users\Windows 8.1\.m2\repository\org\jsoup\jsoup\1.14.3\jsoup-1.14.3.jar = 1635291242742
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\src\main\java = 1635103145884
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\allclasses-index.html = 1635792416999
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\allclasses.html = 1635792417442
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\allpackages-index.html = 1635792417128
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\constant-values.html = 1635792416328
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\deprecated-list.html = 1635792417262
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\element-list = 1635792415854
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\help-doc.html = 1635792417965
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\index-all.html = 1635792416927
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\index.html = 1635792417635
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\member-search-index.js = 1635792416867
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\member-search-index.zip = 1635792416874
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\overview-tree.html = 1635792416690
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\package-search-index.js = 1635792416751
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\package-search-index.zip = 1635792416817
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\script.js = 1635792418655
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\search.js = 1635792418874
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\stylesheet.css = 1635792418440
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\type-search-index.js = 1635792416845
+C:\Users\Windows 8.1\Desktop\atividadeMaven\demo\target\apidocs\type-search-index.zip = 1635792416854
