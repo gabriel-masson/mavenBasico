@@ -8,7 +8,7 @@ public class App {
         
         String[] resultado = ResultadoMegasena.obtemUltimoResultado();
         for (String dezena: resultado) {
-        System.out.print(dezena + " ");
+        System.out.print(dezena + "-");
         }
     }
 }
