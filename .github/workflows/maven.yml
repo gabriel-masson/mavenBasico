@@ -48,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: verify
-      url: 'gabriel-masson.com'
+      
     needs: build #coloca uma dependencia no primeiro job
 
     defaults:
